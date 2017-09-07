@@ -1,6 +1,6 @@
 # music-taste-prediction
 
-Repository contains the project report for a program that I wrote for my major project during engineering school.
+## Repository contains the project report for a program that I wrote for my major project during engineering school.
 
 I extracted a user vs. song matrix from the Million Song Dataset availabe online. Rows represented users and 
 columns represented songs with the values representing the playcounts for the songs by the users.
